@@ -1,0 +1,61 @@
+Q1: Which is your best subject in school?
+A: Science
+B: Maths
+C: English
+D: Arts and Design
+E: Business Studies
+F: Social Studies
+
+Q2: Which is your worst subject?
+A: Science
+B: Maths
+C: English
+D: Arts and Design
+E: Business Studies
+F: Social Studies
+
+Q3: What are your interests?
+A: Music, Art and Theatre
+B: Reading, writing and Learning
+C: Volunteering, Community work
+D: Science
+E: Math and Problem solving
+
+Q4: What job or career would you like in the future?
+A: Doctor, Nurse or Healthcare Professional
+B: Engineer, Architect or Scientist
+C: Teacher, Professor or Educator
+D: Entrepreneur, Business Owner or CEO
+E: Artist, Designer or Creative Professional
+F: Software Developer, Data Scientist or IT Specialist
+G: Writer, Journalist or Editor
+H: Athlete, Coach or Sports Professional
+I: Environmentalist, Conservationist or Wildlife Specialist
+J: Politician, Diplomat or Government Official
+K: Marketing, Advertising or Public Relations Specialist
+
+Q5: How do you like to spend your free time?
+A: Exploring new technologies
+B: Practicing art or music
+C: Playing sports or physical activities
+D: Reading or writing
+E: Spending time in nature
+F: Solving puzzles or playing strategy games
+
+Q6: Which skills do you excel at?
+A: Technical Skills
+B: Creative skills
+C: Interpersonal Skills
+D: Organizational Skills
+
+Q7: What kind of impact do you want to make in your career?
+A: Advancing technology or innovation
+B: Inspiring creativity and culture
+C: Helping others or improving society
+D: Achieving financial success
+
+Q8: What challenges have you faced in your previous roles?
+A: Technical difficulties
+B: Lack of creative freedom
+C: Difficult interpersonal dynamics
+D: Managing time and workload
